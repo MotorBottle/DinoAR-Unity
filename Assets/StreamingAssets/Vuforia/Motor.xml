@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="tracker_home_screen_watch" size="0.025000 0.031250" />
+    <ImageTarget name="watch" size="0.027000 0.033750" />
+    <ImageTarget name="LP_target_3D" size="0.089000 0.050857" />
+    <ImageTarget name="target_card_bc_back_business_card" size="0.089000 0.050809" />
+    <ImageTarget name="targetMotor" size="0.107000 0.064561" />
+  </Tracking>
+</QCARConfig>
